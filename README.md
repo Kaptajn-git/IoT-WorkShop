@@ -12,9 +12,23 @@ Dette er mere text
 ##### Link til google [Google][2]
 
 
-### Liste:  
-* Punkt 1
-   * Sub 1
+### IoT-WorkShop:  
+* Introduktion  
+   * Coding Pirates Nyborg  
+   * Hvad er Micropython?
+   * Installation og opsætning af Thonny
+   * Hvad er en NodeMCU
+     * SoC
+     * UART
+     * PSU
+   * Eksempler på kode
+     * If-then-else
+     * Variabler
+     * Løkker
+* Time 2
+  * Hvad er 
+* Time 3
+* Time 
    * Sub 2
 * Punkt 2
 
