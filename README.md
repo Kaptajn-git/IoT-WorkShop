@@ -28,6 +28,10 @@
   * Automations
 ### Tak for i dag:  
   * Henvisninger
+    * https://thonny.org/
+    * https://docs.micropython.org/en/latest/
+    * https://en.wikipedia.org/wiki/NodeMCU
+    * https://randomnerdtutorials.com/esp8266-web-server/
   * Spørgsmål
 
 
