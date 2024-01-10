@@ -1,4 +1,5 @@
 
-![PDF](NodeMCU_data.pdf "Mit billede")
-Link 2
-Link 3
+![PDF](NodeMCU_data.pdf "NodeMCU")  
+![PDF](PIR-sensor_data.pdf "PIR-sensor")  
+![PDF](Neopixel_data.pdf "Neopixel")  
+
