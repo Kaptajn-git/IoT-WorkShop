@@ -29,6 +29,7 @@
 ### Tak for i dag:  
   * Henvisninger
     * https://thonny.org/
+    * https://microcontrollerslab.com/getting-started-thonny-micropython-ide-esp32-esp8266/
     * https://docs.micropython.org/en/latest/
     * https://en.wikipedia.org/wiki/NodeMCU
     * https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/
