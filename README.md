@@ -1,7 +1,7 @@
 
 # IoT-WorkShop:
 
-### IoT-WorkShop:  
+### Time 1:  
 * Introduktion  
    * Coding Pirates Nyborg  
    * Hvad er Micropython?
@@ -14,12 +14,17 @@
      * If-then-else
      * Variabler
      * Løkker
+### Time 2:  
 * Time 2
   * Hvad er 
-* Time 3
-* Time 
+### Time 3:  
+* Home Assistant
+* Devices og entites    
+* Automations
    * Sub 2
-* Punkt 2
+### TTak for i dag:  
+  * Henvisninger
+  * Spørgsmål
 
 ### Huskeliste:  
 - [X] Punkt 1
