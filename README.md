@@ -13,7 +13,7 @@
      * If-then-else
      * Variabler
      * Interupts
-   * Hvad er en NodeMCU
+   * Hvad er en NodeMCU?
      * SoC
      * UART
      * PSU
