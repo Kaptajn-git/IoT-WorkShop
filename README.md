@@ -19,7 +19,7 @@
      * PSU
      * Eksempler på kode
 ### Time 2:  
-* Time 2
+* Øvelser
   * Øvelser med kode (Dea)
   * Øvelser med NodeMCU (Jesper)
 ### Time 3:  
