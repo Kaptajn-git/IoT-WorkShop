@@ -33,6 +33,7 @@
     * https://docs.micropython.org/en/latest/
     * https://en.wikipedia.org/wiki/NodeMCU
     * https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/
+    * https://www.home-assistant.io/
   * Spørgsmål
 
 
