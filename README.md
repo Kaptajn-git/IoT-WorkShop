@@ -22,6 +22,11 @@
 * Øvelser
   * Øvelser med kode (Dea)
   * Øvelser med NodeMCU (Jesper)
+    * Blink-LED - https://github.com/Kaptajn-git/IoT-WorkShop/
+    * Neopixelh - ttps://github.com/Kaptajn-git/IoT-WorkShop
+    * PIR-sensor - https://github.com/Kaptajn-git/IoT-WorkShop
+    * Switch - https://github.com/Kaptajn-git/IoT-WorkShop
+    * Buzzer - https://github.com/Kaptajn-git/IoT-WorkShop
 ### Time 3:  
 * Home Assistant
   * Devices og entites    
@@ -35,6 +40,7 @@
     * https://en.wikipedia.org/wiki/NodeMCU
     * https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/
     * https://www.home-assistant.io/
+    * https://github.com/Kaptajn-git/IoT-WorkShop
   * Spørgsmål
 
 
