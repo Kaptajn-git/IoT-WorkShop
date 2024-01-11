@@ -8,7 +8,7 @@
 ![Billede](billeder/ws2812_neopixel_stick_rgb_1.jpg "Neopixel")  
 
 
-![Billede](billeder/ws2812_neopixel_stick_rgb_1.jpg "Passive Buzzer")  
+![Billede](billeder/passive-buzzer-3-12v-ac-2khz-1500x1500w.jpg "Passive Buzzer")  
 
 
-![Billede](billeder/ws2812_neopixel_stick_rgb_1.jpg "Magnetic Switch")  
+![Billede](billeder/Magnet-Switch.png "Magnetic Switch")  
