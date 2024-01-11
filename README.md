@@ -20,8 +20,8 @@
      * Eksempler på kode
 ### Time 2:  
 * Øvelser
-  * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/Dea
-  * Øvelser med NodeMCU (Jesper) - https://github.com/Kaptajn-git/IoT-WorkShop/Python/
+  * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python#readme
+  * Øvelser med NodeMCU (Jesper) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python#readme
     * Blink-LED
     * Neopixel
     * PIR-sensor
