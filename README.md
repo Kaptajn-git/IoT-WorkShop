@@ -20,13 +20,13 @@
      * Eksempler på kode
 ### Time 2:  
 * Øvelser
-  * Øvelser med kode (Dea)
-  * Øvelser med NodeMCU (Jesper)
-    * Blink-LED - https://github.com/Kaptajn-git/IoT-WorkShop/
-    * Neopixelh - ttps://github.com/Kaptajn-git/IoT-WorkShop
-    * PIR-sensor - https://github.com/Kaptajn-git/IoT-WorkShop
-    * Switch - https://github.com/Kaptajn-git/IoT-WorkShop
-    * Buzzer - https://github.com/Kaptajn-git/IoT-WorkShop
+  * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/Dea
+  * Øvelser med NodeMCU (Jesper) - https://github.com/Kaptajn-git/IoT-WorkShop/Python/
+    * Blink-LED
+    * Neopixel
+    * PIR-sensor
+    * Switch
+    * Buzze
 ### Time 3:  
 * Home Assistant
   * Devices og entites    
