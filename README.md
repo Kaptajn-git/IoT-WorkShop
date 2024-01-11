@@ -20,7 +20,7 @@
      * Eksempler på kode
 ### Time 2:  
 * Øvelser
-  * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python#readme
+  * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python/Dea#readme
   * Øvelser med NodeMCU (Jesper) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python#readme
     * Blink-LED
     * Neopixel
