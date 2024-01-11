@@ -18,6 +18,7 @@
      * UART
      * PSU
      * Eksempler på kode
+       
 ### Time 2:  
 * Øvelser
   * Øvelser med kode (Dea) - https://github.com/Kaptajn-git/IoT-WorkShop/tree/main/Python/Dea#readme
@@ -26,11 +27,17 @@
     * Neopixel
     * PIR-sensor
     * Switch
-    * Buzze
+    * Buzze  
+      
 ### Time 3:  
-* Home Assistant
+* Home Automation
+  * Hvad er Home Assistant
+  * Trådløse teknologier
+  * MQTT
   * Devices og entites    
   * Automations
+  * Home Assistant App  
+    
 ### Tak for i dag:  
   * Henvisninger
     * https://thonny.org/
@@ -41,7 +48,8 @@
     * https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/
     * https://www.home-assistant.io/
     * https://github.com/Kaptajn-git/IoT-WorkShop
-  * Spørgsmål
+      
+  * Spørgsmål?
 
 
 
