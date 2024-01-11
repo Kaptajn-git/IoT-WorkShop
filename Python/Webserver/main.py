@@ -1,7 +1,8 @@
 # Complete project details at https://RandomNerdTutorials.com
+led.value(1)
 
 def web_page():
-  if led.value() == 1:
+  if led.value() == 0:
     gpio_state="ON"
   else:
     gpio_state="OFF"
@@ -11,8 +12,8 @@ def web_page():
   h1{color: #0F3376; padding: 2vh;}p{font-size: 1.5rem;}.button{display: inline-block; background-color: #e7bd3b; border: none; 
   border-radius: 4px; color: white; padding: 16px 40px; text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
   .button2{background-color: #4286f4;}</style></head><body> <h1>NodeMCU Web Server</h1> 
-  <p>GPIO state: <strong>""" + gpio_state + """</strong></p><p><a href="/?led=on"><button class="button">ON</button></a></p>
-  <p><a href="/?led=off"><button class="button button2">OFF</button></a></p></body></html>"""
+  <p>GPIO state: <strong>""" + gpio_state + """</strong></p><p><a href="/?led=off"><button class="button">ON</button></a></p>
+  <p><a href="/?led=on"><button class="button button2">OFF</button></a></p></body></html>"""
   return html
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -39,4 +40,3 @@ while True:
   conn.send('Connection: close\n\n')
   conn.sendall(response)
   conn.close()
-  
