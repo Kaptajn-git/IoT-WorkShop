@@ -27,7 +27,7 @@
     * Neopixel
     * PIR-sensor
     * Switch
-    * Buzze  
+    * Buzzer  
       
 ### Time 3:  
 * Home Automation
