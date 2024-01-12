@@ -9,10 +9,13 @@
      * Installation af driver til USB
      * Installation og opsætning af Thonny
    * Hvad er Micropython?
-     * Eksempler på kode
-     * If-then-else
+     * Syntax
      * Variabler
-     * Interupts
+     * Datatyper
+     * Operators
+     * Betingelser
+     * Loops
+     * Funktioner
    * Hvad er en NodeMCU?
      * SoC
      * UART
