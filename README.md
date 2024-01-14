@@ -29,7 +29,7 @@
     * Blink-LED
     * Neopixel
     * PIR-sensor
-    * Switch
+    * Switche
     * Buzzer  
       
 ### Time 3:  
