@@ -17,9 +17,9 @@ pir.irq(trigger=Pin.IRQ_RISING, handler=handle_interrupt)
 
 while True:
   if magnet:
-    print('magnet detected! Interrupt caused by:', interrupt_pin)
+    print('Switch ON! Interrupt caused by:', interrupt_pin)
     led.value(0)
     sleep(5)
     led.value(1)
-    print('magnet stopped!')
+    print('Switch OFF!')
     magnet = False
