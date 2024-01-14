@@ -44,6 +44,7 @@
 ### Tak for i dag:  
   * Henvisninger
     * https://thonny.org/
+    * https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
     * https://microcontrollerslab.com/getting-started-thonny-micropython-ide-esp32-esp8266/
     * https://docs.micropython.org/en/latest/
     * https://docs.micropython.org/en/latest/esp8266/quickref.html
